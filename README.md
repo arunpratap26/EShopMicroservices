@@ -1,5 +1,5 @@
 # EShopMicroservices
 Project Detail
-![Project](./ReadmeImages/ProjectDetail.png)
+![Project](./ReadMeData/ProjectDetail.png)
 More Details About Project
-![Project Details](./ReadmeImages/ProjectDetails.png)
+![Project Details](./ReadMeData/ProjectDetails.png)
